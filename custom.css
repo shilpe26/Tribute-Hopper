@@ -12,6 +12,12 @@
     font-family: Zapf Chancery, cursive;
    
 }
+.center{
+    margin: auto;
+}
+ p.dotted {
+     border-style: dotted;
+}
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 13px;
@@ -36,6 +42,9 @@ a:hover{
 }
 .head-panel{
   margin-bottom:30px;
+}
+.full-panel{
+    width: 98%;
 }
 ul {
   list-style: none;
