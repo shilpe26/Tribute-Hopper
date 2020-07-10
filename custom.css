@@ -90,7 +90,10 @@ blockquote {
   text-align: center;
     font-family: sans-serif bold;
     font-style: oblique;
-    
+    color: white;
+    }
+.black{
+    color: black;
 }
 footer,
 header {
@@ -136,3 +139,5 @@ header {
     padding: 5px 10px;
   }
 }
+
+    
